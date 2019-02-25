@@ -6,3 +6,6 @@
     * [02-23](2019-02/02-23.md)
     * [02-24](2019-02/02-24.md)
 
+* [sql](sql/README.md)
+  * [sql-demo](sql/sql-demo.md)
+
